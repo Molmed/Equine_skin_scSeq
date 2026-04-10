@@ -8,7 +8,7 @@ The skin serves as the primary barrier tissue in horses and is frequently affect
 Skin biopsies were collected from the mane region of two clinically healthy horses and processed using both automated and manual dissociation protocols. Single-cell libraries were prepared using the Singleron GEXSCOPE platform and sequenced on Illumina NovaSeq X (paired-end 150 bp). Raw data were aligned to the EquCab3.0 reference genome using the CeleScope pipeline.
 Data Availability:
 Raw FASTQ files: NCBI BioProject PRJNA1441223
-Processed data: Figshare https://doi.org/10.6084/m9.figshare.31980441<img width="468" height="13" alt="image" src="https://github.com/user-attachments/assets/583a0b31-b881-4157-9ded-8ddcbc94b5ec" />
+Processed data: Figshare https://doi.org/10.6084/m9.figshare.31980441.
 
 
 # Code Structure
