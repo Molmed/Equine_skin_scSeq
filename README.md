@@ -15,7 +15,6 @@ This repository contains R scripts for:
 1. Quality control and filtering
 2. Doublet detection and removal
 3. Cell type identification and annotation
-4. Functional enrichment analysis
 
 All analyses were performed in R version 4.5.0. Required packages are listed at the beginning of each script. Analysis directories are numbered sequentially according to the publication workflow.
 # Funding
